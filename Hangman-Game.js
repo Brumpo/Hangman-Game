@@ -1,4 +1,9 @@
 var words = [
+  'super'
+  'cool'
+  'dude'
+  'fork'
+  'me'
   'velociraptor',
   'racecar',
   'palindrome',
